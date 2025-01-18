@@ -1,101 +1,126 @@
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
+    font-style: normal;
+    font-weight: 100;
+    src: url('../font/WorkSans-Thin.ttf');
+}
+
+@font-face {
+    font-family: 'WorkSans';
+    font-style: italic;
+    font-weight: 100;
+    src: url('../font/WorkSans-ThinItalic.ttf');
+}
+@font-face {
+    font-family: 'WorkSans';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../font/WorkSans-ExtraLight.ttf');
+}
+
+@font-face {
+    font-family: 'WorkSans';
+    font-style: italic;
+    font-weight: 200;
+    src: url('../font/WorkSans-ExtraLightItalic.ttf');
+}
+@font-face {
+    font-family: 'WorkSans';
     font-style: normal;
     font-weight: 300;
-    src: url('../font/Rubik-Light.ttf');
+    src: url('../font/WorkSans-Light.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: italic;
     font-weight: 300;
-    src: url('../font/Rubik-LightItalic.ttf');
+    src: url('../font/WorkSans-LightItalic.ttf');
 }
-
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: normal;
     font-weight: 400;
-    src: url('../font/Rubik-Regular.ttf');
+    src: url('../font/WorkSans-Regular.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: italic;
     font-weight: 400;
-    src: url('../font/Rubik-Italic.ttf');
+    src: url('../font/WorkSans-Italic.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: normal;
     font-weight: 500;
-    src: url('../font/Rubik-Medium.ttf');
+    src: url('../font/WorkSans-Medium.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: italic;
     font-weight: 500;
-    src: url('../font/Rubik-MediumItalic.ttf');
+    src: url('../font/WorkSans-MediumItalic.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: normal;
     font-weight: 600;
-    src: url('../font/Rubik-SemiBold.ttf');
+    src: url('../font/WorkSans-SemiBold.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: italic;
     font-weight: 600;
-    src: url('../font/Rubik-SemiBoldItalic.ttf');
+    src: url('../font/WorkSans-SemiBoldItalic.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: normal;
     font-weight: 700;
-    src: url('../font/Rubik-Bold.ttf');
+    src: url('../font/WorkSans-Bold.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: italic;
     font-weight: 700;
-    src: url('../font/Rubik-BoldItalic.ttf');
+    src: url('../font/WorkSans-BoldItalic.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: normal;
     font-weight: 800;
-    src: url('../font/Rubik-ExtraBold.ttf');
+    src: url('../font/WorkSans-ExtraBold.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: italic;
     font-weight: 800;
-    src: url('../font/Rubik-ExtraBoldItalic.ttf');
+    src: url('../font/WorkSans-ExtraBoldItalic.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: normal;
     font-weight: 900;
-    src: url('../font/Rubik-Black.ttf');
+    src: url('../font/WorkSans-Black.ttf');
 }
 
 @font-face {
-    font-family: 'Rubik';
+    font-family: 'WorkSans';
     font-style: italic;
     font-weight: 900;
-    src: url('../font/Rubik-BlackItalic.ttf');
+    src: url('../font/WorkSans-BlackItalic.ttf');
 }
 
-.font-rubik {
-    font-family: 'Rubik', Arial, Helvetica, sans-serif;
+.font-worksans {
+    font-family: 'WorkSans', Arial, Helvetica, sans-serif;
 }
